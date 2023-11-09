@@ -1,0 +1,41 @@
+.simple{
+    color:white
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.form-group{
+    padding :10px !important;
+}
+
+.form-control{
+    margin-top: 3px;
+}
+
+.float-end{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.alert.alert-danger{
+    max-width: 300px;
+    max-height: 10px;
+    margin-left: 10px;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+    top: 20px;
+    display: flex;
+    
+}
+
+.alert.alert-success{
+    max-width: 300px;
+    max-height: 10px;
+    margin-left: 10px;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+    top: 20px;
+    display: flex;   
+}

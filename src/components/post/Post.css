@@ -1,0 +1,13 @@
+.card{
+    margin: 10px !important;
+    background: rgb(34, 33, 33)
+}
+
+.card-header{
+    background-color:rgb(24, 23, 23) ;
+    color: white;
+}
+
+.card-text{
+    color: rgb(134, 133, 133)
+}

@@ -1,0 +1,35 @@
+header{
+    background:black
+}
+
+header .container{
+    max-width: 1400px;
+    max-height: 50px;
+    color:white;
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+
+header a {
+    color: rgb(134, 133, 133);
+    text-decoration: none;
+    
+}
+
+nav{
+    display: flex;
+    padding: 10px -50px;
+    align-items: center;
+    flex-direction: row-reverse;
+    
+}
+
+nav a{
+    margin-left: 20px;
+    margin-top: 5px;
+  
+}
+
